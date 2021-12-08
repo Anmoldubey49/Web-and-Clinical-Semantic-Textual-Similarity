@@ -23,4 +23,5 @@
   
 ## WORKFLOW DIAGRAM
 
+![Explaining Semantic Similarity](Workflow_Diagram.png)
 
